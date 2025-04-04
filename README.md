@@ -3,7 +3,6 @@
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-Active%20Directory-blue?style=for-the-badge&logo=microsoft)  
 ![Splunk](https://img.shields.io/badge/Splunk-SIEM%20%26%20Log%20Analysis-black?style=for-the-badge&logo=splunk)  
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Penetration%20Testing-blue?style=for-the-badge&logo=kalilinux)  
-![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-lightblue?style=for-the-badge&logo=wireshark)  
 ![Atomic Red Team](https://img.shields.io/badge/Atomic%20Red%20Team-Adversary%20Emulation-red?style=for-the-badge)  
 
 ## 🛠 **Project Overview**  

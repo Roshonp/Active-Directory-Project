@@ -1,4 +1,4 @@
-# Active-Dire# PROJECTNAME
+# Active-Directory-Project
 
 ## Objective
 Designing and configuring a comprehensive Active Directory home lab environment incorporating Splunk, Kali Linux, and Atomic Red Team. Implementing event ingestion into a SIEM to generate attack-related telemetry, simulating real-world threat actor behavior, and demonstrating effective detection techniques for malicious activities.

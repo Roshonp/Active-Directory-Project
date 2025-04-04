@@ -30,7 +30,6 @@ This project involves setting up a **comprehensive Active Directory (AD) securit
 🔹 **Splunk** – SIEM for security event collection and analysis  
 🔹 **Kali Linux** – Ethical hacking & penetration testing  
 🔹 **Atomic Red Team** – Open-source framework for adversary simulation  
-🔹 **Wireshark** – Packet capture and network traffic inspection  
 🔹 **Windows Server & Active Directory** – Configured with security auditing & logging  
 
 ## 🚀 **Project Highlights**  
